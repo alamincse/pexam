@@ -1,14 +1,14 @@
 ## Laravel 5.0 Apps
 
-Just download this repository and store your server directory.
+Just download this repository and store it on your server directory.
 
-Now access your project by using **terminal(CMD)**. and use this command
+Now access your project by using **terminal(CMD)** and use this command bellow...
 
 ```php
 php artisan migrate
 ```
 
-For dummy data into your **database**
+For dummy data store into your **database**
 
 ```php
 php artisan db:seed
