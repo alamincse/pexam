@@ -1,3 +1,25 @@
+## Laravel 5.0 Apps
+
+Just download this repository and store your server directory.
+
+Now access your project by using **terminal(CMD)**. and use this command
+
+```php
+php artisan migrate
+```
+
+For dummy data into your **database**
+
+```php
+php artisan db:seed
+```
+
+Finally use this command for **Laravel default server**
+
+```php
+php artisan serve
+```
+
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
