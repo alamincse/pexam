@@ -20,6 +20,12 @@ Finally use this command for **Laravel default server**
 php artisan serve
 ```
 
+And now access your project by using bellow this **URL**
+```php
+http://localhost:8000
+```
+
+
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
