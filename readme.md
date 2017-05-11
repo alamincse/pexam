@@ -26,6 +26,9 @@ http://localhost:8000
 ```
 
 
+## Author 
+[Al-Amin Sarker](http://www.parbona.net)
+
 ## Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
